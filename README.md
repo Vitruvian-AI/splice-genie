@@ -11,3 +11,11 @@ TODO
 - use openai codex to create test cases
 - [optional] integrate fastapi framework (api creation)
 - [optional] integrate stable diffusion (text to img)
+
+## Installation
+```
+[go to project project directory]
+python -m venv env
+env\Scripts\Activate
+python -m pip install -r requirements.txt
+```
